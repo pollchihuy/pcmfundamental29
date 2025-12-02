@@ -1,5 +1,4 @@
-package com.juaracoding.StrObject;
-
+package com.juaracoding.strobject;
 import com.juaracoding.basics.BuatClass;
 
 /*
